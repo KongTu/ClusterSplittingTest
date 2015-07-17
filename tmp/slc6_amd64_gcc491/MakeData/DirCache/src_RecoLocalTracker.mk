@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoLocalTracker
+subdirs_src_RecoLocalTracker = src_RecoLocalTracker_Configuration

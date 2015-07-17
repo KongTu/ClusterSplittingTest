@@ -1,0 +1,2 @@
+ALL_PACKAGES += RiceHIG/Skim2013
+subdirs_src_RiceHIG_Skim2013 := src_RiceHIG_Skim2013_src src_RiceHIG_Skim2013_out src_RiceHIG_Skim2013_macros src_RiceHIG_Skim2013_scripts src_RiceHIG_Skim2013_test src_RiceHIG_Skim2013_python src_RiceHIG_Skim2013_pars src_RiceHIG_Skim2013_data

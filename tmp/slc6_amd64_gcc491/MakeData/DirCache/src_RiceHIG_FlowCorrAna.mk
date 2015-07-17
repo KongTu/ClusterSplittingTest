@@ -1,0 +1,2 @@
+ALL_PACKAGES += RiceHIG/FlowCorrAna
+subdirs_src_RiceHIG_FlowCorrAna := src_RiceHIG_FlowCorrAna_DiHadronCorrelationAnalyzer

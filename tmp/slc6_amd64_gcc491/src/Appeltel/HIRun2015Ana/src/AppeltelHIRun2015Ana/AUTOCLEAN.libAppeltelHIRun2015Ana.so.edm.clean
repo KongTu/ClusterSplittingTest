@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc491/pluginAppeltelHIRun2015Ana.so lib/slc6_amd64_gcc491/AppeltelHIRun2015Ana.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc491

@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Appeltel
+subdirs_src_Appeltel = src_Appeltel_HIRun2015Ana

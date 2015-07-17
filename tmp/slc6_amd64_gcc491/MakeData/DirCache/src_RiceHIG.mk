@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RiceHIG
+subdirs_src_RiceHIG = src_RiceHIG_ppRecoOnHiPeripheral src_RiceHIG_Skim2013 src_RiceHIG_FlowCorrAna
